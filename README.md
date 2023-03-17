@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am Sharifa.
+I am potential full stack web developer 
+
 
 
 <!--**Sharifa1/Sharifa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
