@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Sharifa.
-I am potential full stack web developer 
+I am passionate full stack web developer willing to learn more skills to develop myself
 
 
 
